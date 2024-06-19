@@ -1,0 +1,5 @@
+{
+    "cmake.configureOnOpen": false,
+    "dotnet.defaultSolution": "disable",
+    "cmake.sourceDirectory": "C:/Users/arnol/Documents/bykefastgo-v3/flutter-bykefastgo/build/windows/_deps/nuget-subbuild"
+}
